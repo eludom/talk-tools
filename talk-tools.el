@@ -4,7 +4,7 @@
 
 ;; Author: George Jones <gmj@pobox.com>
 ;; Maintainer: George Jones <gmj@pobox.com>
-;; URL: https://github.com/eludom/home.public.elisp-public/blob/master/elisp-public/talk-tools.el
+;; URL: https://github.com/eludom/talk-tools
 ;; Version: 0.2
 ;; Package-Requires: ((emacs "26.1"))
 ;; Keywords: convenience, timer
