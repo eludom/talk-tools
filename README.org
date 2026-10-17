@@ -26,8 +26,9 @@ M-x package-install RET talk-tools RET
 
 * Manual
 #+begin_src elisp :results none
-(use-package talk-tools
-  :vc (:fetcher github :repo "eludom/talk-tools.el"))
+  (use-package talk-tools
+    :vc (:url "https://github.com/eludom/talk-tools" )
+    )
 #+end_src
 
 - Usage
