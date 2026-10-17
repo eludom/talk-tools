@@ -2,7 +2,10 @@
 
 This package is designed to help keep you on track when giving talks in Org-mode. It adds a timer to the toolbar, popup warnings and displays keys/commands used to help viewers understand the alchemy.
 
-[[file:talk-tools.png]]
+#+begin_src org
+#+CAPTION: Talk tools screenshot
+[[./talk-tools.png]]
+#+end_src
 
 * Features
 
